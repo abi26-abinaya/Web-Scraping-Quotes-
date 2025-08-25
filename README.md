@@ -16,5 +16,5 @@ A simple web scraping project built with Python.
 - Matplotlib
 
 ## 📊 Sample Visualization
-![Top Authors Chart](https://raw.githubusercontent.com/<abi26-abinaya>/<repo>/main/screenshot.png)
+![Top Authors Chart](https://github.com/abi26-abinaya/Web-Scraping-Quotes-/blob/main/Screenshot_1.png?raw=true)
 
