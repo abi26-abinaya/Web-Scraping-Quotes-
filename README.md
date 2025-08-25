@@ -17,4 +17,8 @@ A simple web scraping project built with Python.
 
 ## 📊 Sample Visualization
 ![Top Authors Chart](https://github.com/abi26-abinaya/Web-Scraping-Quotes-/blob/main/Screenshot_1.png?raw=true)
-
+![Top Authors Chart](https://github.com/abi26-abinaya/Web-Scraping-Quotes-/blob/main/Screenshot_2.png)
+output:
+![Top Authors Chart](https://github.com/abi26-abinaya/Web-Scraping-Quotes-/blob/main/Screenshot_3.png)
+chart-view:
+![Top Authors Chart](https://github.com/abi26-abinaya/Web-Scraping-Quotes-/blob/main/Figure_1.png)
